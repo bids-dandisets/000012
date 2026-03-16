@@ -1,0 +1,2 @@
+name	electrode_name	type	units	sampling_frequency	stream_id	gain	recording_mode
+Electrode 0	Electrode 0	IM	V	50000.0	index_00,index_01,index_02,index_03,index_04,index_05,index_06,index_07,index_08,index_09,index_10,index_11,index_12,index_13	1.0	current-clamp

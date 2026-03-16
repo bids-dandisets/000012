@@ -1,0 +1,3 @@
+name	electrode_name	type	units	sampling_frequency	stream_id	gain	recording_mode
+Electrode 0	Electrode 0	VM	V	50000.0	index_00,index_02,index_04,index_06,index_08,index_10,index_12,index_14,index_16,index_18,index_20,index_22,index_24,index_26,index_28,index_30,index_32,index_34	1.0	voltage-clamp
+Electrode 1	Electrode 1	VM	V	50000.0	index_01,index_03,index_05,index_07,index_09,index_11,index_13,index_15,index_17,index_19,index_21,index_23,index_25,index_27,index_29,index_31,index_33,index_35	1.0	voltage-clamp
