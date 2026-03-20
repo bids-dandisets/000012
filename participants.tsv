@@ -1,5 +1,5 @@
-participant_id	species
-sub-1	Homo sapiens
-sub-2	Homo sapiens
-sub-3	Homo sapiens
-sub-4	Homo sapiens
+participant_id	original_participant_id	species
+sub-1	sub-1	Homo sapiens
+sub-2	sub-2	Homo sapiens
+sub-3	sub-3	Homo sapiens
+sub-4	sub-4	Homo sapiens
